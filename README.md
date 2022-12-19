@@ -8,4 +8,4 @@ I'm a Computer Science undergraduate at UMass Boston. Here you will find some we
 
 ### How to reach me
 
-[![](https://img.shields.io/badge/Discord-TheOnlyZac%230269-informational?style=flat&logo=Discord&logoColor=white&color=5865F2)](https://discordapp.com/channels/@me/TheOnlyZac#0269/) [![](https://img.shields.io/badge/Twitter-The_Only_Zac-informational?style=flat&logo=Twitter&logoColor=white&color=1DA1F2)](https://twitter.com/the_only_zac) [![](https://img.shields.io/badge/Gmail-zac.krasnow-informational?style=flat&logo=Gmail&logoColor=white&color=EA4335)](mailto:zac.krasnow@gmail.com)
+[![](https://img.shields.io/badge/Discord-TheOnlyZac%230269-informational?style=flat&logo=Discord&logoColor=white&color=5865F2)](https://discordapp.com/channels/@me/TheOnlyZac#0269/) [![](https://img.shields.io/badge/Twitter-The_Only_Zac-informational?style=flat&logo=Twitter&logoColor=white&color=1DA1F2)](https://twitter.com/the_only_zac) [![](https://img.shields.io/badge/hachyderm.io-@theonlyzac-informational?style=flat&logo=Mastodon&logoColor=white&color=purple)](https://hachyderm.io/@theonlyzac)
