@@ -1,10 +1,10 @@
-## Hi, I'm Zac!
+## Hi, I'm Zac.
 
-I'm a Computer Science undergraduate at UMass Boston. Here you'll find some apps, games, and utilities I've created. If you have any questions, suggestions, or feedback, feel free to contact me!
+I'm a Computer Science student a UMASS Boston. I make websites, apps, games, and more. If you have any questions, suggestions, or feedback, please reach out to me!
 
-### Portfolio
+### Websites
 
-To check out my portfolio projects, visit https://zac.boston.
+To check out my websites, go to [zacbox.app](https://zacbox.app).
 
 ### Skills
 
