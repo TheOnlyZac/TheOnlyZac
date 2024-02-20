@@ -1,6 +1,6 @@
 ## Hi, I'm Zac.
 
-I'm a Computer Science student a UMASS Boston. I make websites, apps, games, and more. If you have any questions, suggestions, or feedback, please reach out to me!
+I'm a Computer Science student at UMASS Boston. I make websites, apps, games, and more. If you have any questions, suggestions, or feedback, please reach out to me!
 
 ### Websites
 
