@@ -1,10 +1,12 @@
-## Hi, I'm Zac. 👋🏻 
+## Hi, I'm Zac. 👋🏻
 
 I'm a Computer Science student at UMASS Boston. I make websites, apps, games, and more. If you have any questions, suggestions, or feedback, please reach out to me!
 
 ### Portfolio
 
-![Banner image with the Zacbox logo and text "Zacbox; websites by Zac".](img/zacbox-banner.png)
+<a href="https://zacbox.app">
+    <img src="img/zacbox-banner.png" style="height: 100px; border-radius: 10%;" alt="Banner image with the Zacbox logo and text &quot;Zacbox; websites by Zac&quot;." />
+</a>
 
 Check out my web dev portfolio at [zacbox.app](https://zacbox.app).
 
