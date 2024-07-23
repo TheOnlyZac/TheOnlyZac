@@ -1,6 +1,6 @@
 ## Hi, I'm Zac. 👋🏻
 
-I'm a freelance web developer and software engineer. I make websites, games, tools, and more. If you need a website, or if you have any questions about my projects, feel free to contact me!
+I'm a freelance web developer and software engineer. I make websites, games, tools, and more. If you need a website, or if you have any questions about my projects, feel free to contact me! My portfolio: https://zac.boston
 
 [![](https://img.shields.io/badge/Discord-TheOnlyZac-informational?style=flat&logo=Discord&logoColor=white&color=5865F2)](https://discordapp.com/channels/@me/TheOnlyZac#0269/) [![](https://img.shields.io/badge/Email-contact@zac.boston-informational?style=flat&logo=Gmail&logoColor=white&color=1d7bff)](mailto:contact@zac.boston)
 
@@ -10,7 +10,7 @@ I'm a freelance web developer and software engineer. I make websites, games, too
     <img src="img/zacbox-banner.png" style="height: 100px; border-radius: 10%;" alt="Banner image with the Zacbox logo and text &quot;Zacbox; websites by Zac&quot;." />
 </a>
 
-Check out my web dev portfolio at [zacbox.app](https://zacbox.app).
+Check out my web apps at [zacbox.app](https://zacbox.app).
 
 <hr/>
 
