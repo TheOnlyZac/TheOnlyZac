@@ -4,7 +4,7 @@
 
 💼 I'm looking for full-stack software engineering/developer roles! If you're hiring, feel free to [visit my portfolio](https://zackrasnow.com) and [contact me by email](mailto:zac.krasnow@gmail.com).
 
-[![](https://img.shields.io/badge/Email-zac.krasnow@gmail.com-informational?style=flat-square&logo=Gmail&logoColor=white&color=b5361d)](mailto:zac.krasnow@gmail.com) [![](https://img.shields.io/badge/Discord-theonlyzac-informational?style=flat-square&logo=Discord&logoColor=white&color=5865F2)](https://discordapp.com/channels/@me/theonlyzac/) [![](https://img.shields.io/badge/Bluesky-@zac.boston-informational?style=flat-square&logo=Bluesky&logoColor=white&color=0085FF)](https://discordapp.com/channels/@me/TheOnlyZac#0269/)
+[![](https://img.shields.io/badge/Email-zac.krasnow@gmail.com-informational?style=flat-square&logo=Gmail&logoColor=white&color=b5361d)](mailto:zac.krasnow@gmail.com) [![](https://img.shields.io/badge/Discord-theonlyzac-informational?style=flat-square&logo=Discord&logoColor=white&color=5865F2)](https://discordapp.com/channels/@me/theonlyzac/) [![](https://img.shields.io/badge/Bluesky-@zac.boston-informational?style=flat-square&logo=Bluesky&logoColor=white&color=0085FF)](https://bsky.app/profile/zac.boston)
 
 [![Zac's GitHub stats](https://github-readme-stats.vercel.app/api?username=theonlyzac&theme=holi&custom_title=Zac%27s%20GitHub%20Stats&hide=contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Zac's GitHub stats](https://github-readme-stats.vercel.app/api?username=theonlyzac&theme=default&custom_title=Zac%27s%20GitHub%20Stats&hide=contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
