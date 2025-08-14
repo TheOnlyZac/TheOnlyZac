@@ -1,10 +1,14 @@
-## 👋🏻 Hi, I'm Zac. *#OpenToWork*
+## 👋🏻 Hi, I'm Zac.
 
-👨🏻‍💻 I'm a freelance web developer and software engineer based in Boston, MA. I make web apps, sites, games, tools, and more.
+👨🏻‍💻 I'm a web developer and software engineer in Boston, MA. I make web apps, sites, games, tools, and more.
 
-💼 I'm looking for full-stack software engineering/developer roles! If you're hiring, feel free to [visit my portfolio](https://zackrasnow.com) or [contact me](mailto:zac.krasnow@gmail.com).
+💼 Are you hiring developers? [Click here](mailto:zac.krasnow@gmail.com) send me a message!
 
-[![](https://img.shields.io/badge/Email-zac.krasnow@gmail.com-informational?style=flat-square&logo=Gmail&logoColor=white&color=b5361d)](mailto:zac.krasnow@gmail.com) [![](https://img.shields.io/badge/Discord-theonlyzac-informational?style=flat-square&logo=Discord&logoColor=white&color=5865F2)](https://discordapp.com/channels/@me/theonlyzac/) [![](https://img.shields.io/badge/Bluesky-@zac.boston-informational?style=flat-square&logo=Bluesky&logoColor=white&color=0085FF)](https://bsky.app/profile/zac.boston)
+[![Email](https://img.shields.io/badge/Email-zac.krasnow@gmail.com-informational?style=flat-square&logo=Gmail&logoColor=white&color=b5361d)](mailto:zac.krasnow@gmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-zac--krasnow-0A66C2?style=flat-square&logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/zac-krasnow)<!--
+[![Upwork](https://img.shields.io/badge/Upwork-Zac%20K.-53a632?style=flat-square&logo=upwork&logoColor=fff)](https://www.upwork.com/freelancers/~013e4a7615eeb25b7b?mp_source=share)-->
+[![Bluesky](https://img.shields.io/badge/Bluesky-@zac.boston-informational?style=flat-square&logo=Bluesky&logoColor=white&color=0085FF)](https://bsky.app/profile/zac.boston)
+[![Discord](https://img.shields.io/badge/Discord-theonlyzac-informational?style=flat-square&logo=Discord&logoColor=white&color=5865F2)](https://discordapp.com/channels/@me/theonlyzac/)
 
 [![Zac's GitHub stats](https://github-readme-stats.vercel.app/api?username=theonlyzac&theme=holi&custom_title=Zac%27s%20GitHub%20Stats&hide=contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Zac's GitHub stats](https://github-readme-stats.vercel.app/api?username=theonlyzac&theme=default&custom_title=Zac%27s%20GitHub%20Stats&hide=contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
