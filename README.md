@@ -1,19 +1,11 @@
 ## 👋🏻 Hi, I'm Zac.
 
-👨🏻‍💻 I'm a web developer and software engineer in Boston, MA. I make web apps, sites, games, tools, and more.
-
-💼 Are you hiring developers? [Click here](mailto:zac.krasnow@gmail.com) send me a message!
-
-[![Email](https://img.shields.io/badge/Email-zac.krasnow@gmail.com-informational?style=flat-square&logo=Gmail&logoColor=white&color=b5361d)](mailto:zac.krasnow@gmail.com)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-zac--krasnow-0A66C2?style=flat-square&logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/zac-krasnow)<!--
-[![Upwork](https://img.shields.io/badge/Upwork-Zac%20K.-53a632?style=flat-square&logo=upwork&logoColor=fff)](https://www.upwork.com/freelancers/~013e4a7615eeb25b7b?mp_source=share)-->
-[![Bluesky](https://img.shields.io/badge/Bluesky-@zac.boston-informational?style=flat-square&logo=Bluesky&logoColor=white&color=0085FF)](https://bsky.app/profile/zac.boston)
-[![Discord](https://img.shields.io/badge/Discord-theonlyzac-informational?style=flat-square&logo=Discord&logoColor=white&color=5865F2)](https://discordapp.com/channels/@me/theonlyzac/)
+I'm a full-stack engineer based in Boston, MA. I build web apps, games, and tools tools for modding/reverse-engineering.
 
 [![Zac's GitHub stats](https://github-readme-stats.vercel.app/api?username=theonlyzac&theme=holi&custom_title=Zac%27s%20GitHub%20Stats&hide=contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Zac's GitHub stats](https://github-readme-stats.vercel.app/api?username=theonlyzac&theme=default&custom_title=Zac%27s%20GitHub%20Stats&hide=contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-## ☀️ Where I Shine
+## 🛠️ My Skills
 
 |  |  |
 | -------- | ------- |
@@ -22,12 +14,21 @@
 | **DevOps**    | [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#) [![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white)](#) [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](#)  [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#) [![AppVeyor](https://img.shields.io/badge/AppVeyor-00B3E0?logo=appveyor&logoColor=fff)](#) [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#) [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#)    |
 |  |  |
 
+## 📧 Contact
+
+💼 Are you hiring engineers? [Feel free to say hi!](mailto:zac.krasnow@gmail.com)
+
+[![Email](https://img.shields.io/badge/Email-zac.krasnow@gmail.com-informational?style=flat-square&logo=Gmail&logoColor=white&color=b5361d)](mailto:zac.krasnow@gmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-zac--krasnow-0A66C2?style=flat-square&logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/zac-krasnow)<!--
+[![Upwork](https://img.shields.io/badge/Upwork-Zac%20K.-53a632?style=flat-square&logo=upwork&logoColor=fff)](https://www.upwork.com/freelancers/~013e4a7615eeb25b7b?mp_source=share)--><!--
+[![Bluesky](https://img.shields.io/badge/Bluesky-@zac.boston-informational?style=flat-square&logo=Bluesky&logoColor=white&color=0085FF)](https://bsky.app/profile/zac.boston)-->
+[![Discord](https://img.shields.io/badge/Discord-theonlyzac-informational?style=flat-square&logo=Discord&logoColor=white&color=5865F2)](https://discordapp.com/channels/@me/theonlyzac/)
 <hr/>
 
 <a href="https://zacbox.app">
     <img src="img/zacbox-banner.png" style="height: 100px; border-radius: 10%;" alt="Banner image with the Zacbox logo and text &quot;Zacbox; websites by Zac&quot;." />
 </a>
 
-Check out some tools, apps and games I've made at [zacbox.app](https://zacbox.app).
+Check out some apps and games I've made at [zacbox.app](https://zacbox.app).
 
 <hr/>
